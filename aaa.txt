@@ -15,4 +15,5 @@ kkk
 
 git status
 
+git diff
 
