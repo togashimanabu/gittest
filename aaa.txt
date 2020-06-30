@@ -13,3 +13,6 @@ iii
 jjj
 kkk
 
+git status
+
+
